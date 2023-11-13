@@ -1,8 +1,5 @@
-#include <iostream>
-#include <math.h>
-#include "code.h"
 
-using namespace std;
+#include "code.h"
 
 int main()
 {
